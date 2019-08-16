@@ -1,5 +1,5 @@
 ### Date created
-This project and README file were created on .
+This project and README file were created on 08/14/2019.
 
 ### Project Title
 
@@ -11,4 +11,4 @@ This project is part of my Udacity's Data Analyst Nanodegree.
 
 
 ### Credits
-Special thanks to my Udacity teachers: 
+Special thanks to my Udacity teachers:
