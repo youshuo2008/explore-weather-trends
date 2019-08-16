@@ -2,7 +2,7 @@
 This project and README file were created on 08/14/2019.
 
 ### Project Title
-
+Explore weather trends 
 
 ### Project Description
 This project is part of my Udacity's Data Analyst Nanodegree.
