@@ -12,7 +12,7 @@ Then, I used Excel to calculate the 7-day moving average of the New York and glo
 Finally, I summarized my findings in a PDF report.   
 
 ### Files used
-
+The csv files used in the project was obtained using SQL querying from Udacity's database server. 
 
 ### Credits
 Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V and George L.
