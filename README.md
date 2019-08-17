@@ -15,4 +15,4 @@ Finally, I summarized my findings in a PDF report.
 
 
 ### Credits
-Special thanks to my Udacity teachers:
+Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V and George L.
