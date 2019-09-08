@@ -5,10 +5,10 @@ This project and README file were created on 08/14/2019.
 Explore weather trends
 
 ### Project Description
-This project is part of my Udacity's Data Analyst Nanodegree.
-I'm interested in finding out the average temperature changes over the recent 200 years of where I live (New York), and comparing it to the global trend.
+This is the first mini-project of my Udacity's Data Analyst Nanodegree.
+The goal is to find out average temperature changes over the recent 200 years of where I live (New York), and comparing it to the global trend.
 To obtain the data, I queried a SQL relational database from Udacity's workspace and downloaded the results as a csv file into my local computer.
-Then, I used Excel to calculate the 7-day moving average of the New York and global yearly average temperature, and generated a line plot.
+Then, I used the software Excel to calculate the 7-day moving average of New York and global yearly average temperature, and generated a line plot graph.
 Finally, I summarized my findings in a PDF report.   
 
 ### Files used
